@@ -8,9 +8,9 @@ import { format, subDays } from "date-fns";
 const todayKey = () => format(new Date(), "yyyy-MM-dd");
 
 export const mockUser = {
-  _id: "u_alex",
-  name: "Alex Rivera",
-  email: "alex@example.com",
+  _id: "abhi_11",
+  name: "Abhishekh Kumar",
+  email: "abhi@example.com",
   avatar: "A",
   morningMotivation: true,
 };
